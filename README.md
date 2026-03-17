@@ -12,7 +12,7 @@ Il panorama lavorativo attuale è guidato dall'intersezione di tre vettori fonda
 - Tecnologia (AI & Automation): L'intelligenza artificiale non solo automatizza, ma riscrive le regole della produttività, ridefinendo il valore delle competenze umane.
 
 # 📖 Struttura della Ricerca
-Il repository è organizzato in tre macro-aree di analisi:
+La ricerca è organizzata in tre macro-aree di analisi:
 
 ### 🏛️ Capitolo 1: Dinamiche Strutturali
 Analisi del contesto macroeconomico. Dalla scarsità di talenti alla trasformazione delle carriere in entità fluide e internazionali.
@@ -29,8 +29,6 @@ Key Focus: Valutazione economica dei profili, seniority, impatto geografico e le
 # 🎯 Obiettivi
 Mappare le trasformazioni del settore Tech (AI, Cloud, Cybersecurity, Biotech).
 Identificare le skill "antifragili" per rimanere competitivi.
-
 Fornire strumenti per orientarsi tra mercati locali (Italia) e globali (USA/Remote).
 Consulta i dati e i grafici nella cartella /data-analysis.
-
 "L'antifragilità va oltre la resilienza. Il resiliente resiste agli shock; l'antifragile migliora grazie ad essi."

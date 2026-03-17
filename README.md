@@ -4,7 +4,7 @@ Navigare, adattarsi e prosperare nel mercato tech dominato dall'AI e dalla volat
 ## 💡 Il Progetto
 In un mondo in cui la tecnologia evolve più velocemente della formazione accademica, il concetto di Antifragilità diventa l'unica bussola affidabile. Questo progetto di ricerca analizza come le forze economiche, sociali e tecnologiche stiano ridisegnando il mercato del lavoro Tech, creando una frattura profonda tra chi subisce il cambiamento e chi impara a trarne vantaggio.
 
-## 🌪️ Le 3 Forze della Trasformazione
+### 🌪️ Le 3 Forze della Trasformazione
 Il panorama lavorativo attuale è guidato dall'intersezione di tre vettori fondamentali:
 
 - Economia (High-Tech Capital): Flussi massicci di investimenti in R&D e startup che premiano l'innovazione di frontiera.
@@ -14,24 +14,20 @@ Il panorama lavorativo attuale è guidato dall'intersezione di tre vettori fonda
 # 📖 Struttura della Ricerca
 Il repository è organizzato in tre macro-aree di analisi:
 
-## 🏛️ Capitolo 1: Dinamiche Strutturali
+### 🏛️ Capitolo 1: Dinamiche Strutturali
 Analisi del contesto macroeconomico. Dalla scarsità di talenti alla trasformazione delle carriere in entità fluide e internazionali.
-
 Key Focus: Antifragilità individuale, impatto dei nuovi modelli lavorativi.
 
-## 🎯 Capitolo 2: La Frattura delle Competenze
+### 🎯 Capitolo 2: La Frattura delle Competenze
 Un'indagine empirica sulle skill richieste oggi. Quali competenze vengono premiate dal mercato e quali stanno diventando obsolete?
-
 Key Focus: Allineamento formazione-mercato, skill resilienti, analisi della domanda globale di talento.
 
-## 💰 Capitolo 3: Il Valore del Talento (Analisi Quantitativa)
+### 💰 Capitolo 3: Il Valore del Talento (Analisi Quantitativa)
 Confronto basato sui dati tra le retribuzioni italiane e internazionali (focus USA). Perché a parità di ruolo esistono gap salariali del 100%?
-
 Key Focus: Valutazione economica dei profili, seniority, impatto geografico e leve di negoziazione.
 
 # 🎯 Obiettivi
 Mappare le trasformazioni del settore Tech (AI, Cloud, Cybersecurity, Biotech).
-
 Identificare le skill "antifragili" per rimanere competitivi.
 
 Fornire strumenti per orientarsi tra mercati locali (Italia) e globali (USA/Remote).
